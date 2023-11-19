@@ -1,5 +1,6 @@
 import styled, { css } from "styled-components";
 
+
 const sizes = {
   small: css`
     font-size: 1.2rem;
