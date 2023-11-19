@@ -4,6 +4,7 @@ import GlobalStyles from './styles/GlobalStyles'
 const H1 = styled.h1`
   font-size: 30px;
   font-weight: 600;
+  color: var(--color-brand-500)
 `
 
 const Input = styled.input`
