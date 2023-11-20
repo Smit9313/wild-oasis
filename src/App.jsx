@@ -19,7 +19,10 @@ function App() {
     <GlobalStyles />
     <div>
       <H1>Hello World</H1>
+      <h1>dihjh</h1>
       <Input placeholder='Helloooo' />
+
+      
     </div>
     </>
   )
